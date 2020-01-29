@@ -21,6 +21,7 @@ export default class PeoplePage extends Component {
   };
 
   render() {
+    console.log('PEOPLE PAGE');
 
     const itemList = (
       <ItemList
